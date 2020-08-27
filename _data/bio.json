@@ -2,10 +2,10 @@
   "basics": {
     "name": "Marcus Becker",
     "label": "Student",
-    "picture": "https://marcusbecker64.github.io/images/picture.jpeg",
+    "picture": "https://marcustbecker.github.io/images/picture.jpeg",
     "email": "molly@hawaii.edu",
     "phone": "630-373-2105",
-    "website": "https://marcusbecker64.github.io",
+    "website": "https://marcustbecker.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at Aurora University. I expect to graduate in Spring, 2021.",
     "location": {
       "address": "120 Amherst Drive",
@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "marcusbecker64",
-        "url": "http://github.com/marcusbecker64"
+        "username": "marcustbecker",
+        "url": "http://github.com/marcustbecker"
       },
       {
         "network": "linkedin",
         "username": "marcusbecker64",
-        "url": "http://linkedin.com/in/marcusbecker64"
+        "url": "http://linkedin.com/in/marcustbecker"
       }
     ]
   },
@@ -88,31 +88,17 @@
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
       ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Aurora University Computer Science Association",
+      "website": "",
+      "position": "President",
+      "startDate": "2020-05-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "President of the club",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
@@ -131,16 +117,10 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
