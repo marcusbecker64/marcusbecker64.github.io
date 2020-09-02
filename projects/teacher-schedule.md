@@ -13,8 +13,8 @@ labels:
 summary: My team developed a website that allowed a way to check current and past Aurora University courses by searching through class or semester per year.
 ---
 
-<img class="ui float left medium rounded image" src="../images/teacher-schedule.png">
-<img class="ui float left medium rounded image" src="../images/teacher-schedule-page.png">
+<img class="ui rounded image" src="../images/teacher-schedule.png">
+<img class="ui rounded image" src="../images/teacher-schedule-page.png">
 <p>
   This group project was done for a final project for CSC3700 Advanced Web App at Aurora University. This project included me and three other team members.
 </p>
